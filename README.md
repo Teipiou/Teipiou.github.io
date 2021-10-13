@@ -1,2 +1,1 @@
-# Teipiou.github.io
-## Morotonki
+# Morotonki
